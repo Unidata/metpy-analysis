@@ -13,7 +13,7 @@
 </div>
 
 ## ![](logos/metpy-32x32.png "MetPy Logo") Let's talk MetPy!
-Here you will find a collection notebooks we will be demonstrating and working through together for this year's Student Conference Python Workshop. The focus will be on some of [Unidata's Python tools](https://www.unidata.ucar.edu/projects/index.html#python), including [MetPy](https://unidata.github.io/MetPy/latest/) and [Siphon](https://unidata.github.io/siphon/latest/), and the workshop is primarily designed to introduce beginners to the capability and convenience Python can provide for your work in meteorology.
+Here you will find a collection of notebooks we will be demonstrating and working through together for this year's Student Conference Python Workshop. The focus will be on some of [Unidata's Python tools](https://www.unidata.ucar.edu/projects/index.html#python), including [MetPy](https://unidata.github.io/MetPy/latest/) and [Siphon](https://unidata.github.io/siphon/latest/), and the workshop is primarily designed to introduce beginners to the capability and convenience Python can provide for your work in meteorology.
 
 ## :arrow_right_hook: Pre-workshop materials
 On Sunday, we will be working from `workshop.ipynb` live and synchronously. **Before the workshop**, go to the asynchronous [**pre-workshop**](https://elearning.unidata.ucar.edu/ams2022) from Unidata eLearning. As a minimum requirement, this will make sure your environment is ready for Sunday's activities. We also offer optional additional practice covering the core packages and concepts necessary to complete this workshop. The pre-workshop can help you decide if this practice is necessary for you.
