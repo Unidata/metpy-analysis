@@ -23,7 +23,7 @@ For this workshop, we have two separate ways you can participate, work ahead, an
 If you've registered to attend, you will be given access to Unidata's Science Gateway to do your work on NSF's Jetstream Cloud.
 If you prefer or require doing the work on your own computer, you are welcome to do so as well!
 
-### :cloud: Using [Science Gateway](http://scigw.unidata.ucar.edu/)
+### :cloud: Using [Science Gateway](https://science-gateway.unidata.ucar.edu/)
 If you've registered for this workshop, you can do all of this work on our very own _gateway_ to the NSF Jetstream Cloud!
 You should have received instructions from AMS on how to access Science Gateway, including a link to a form.
 Once you use this form to provide us with your GitHub username (create one [here](https://github.com/join) if needed), we will approve your access within 1-2 days or by the workshop.
