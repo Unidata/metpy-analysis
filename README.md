@@ -25,9 +25,9 @@ If you prefer or require doing the work on your own computer, you are welcome to
 
 ### :cloud: Using [Science Gateway](http://scigw.unidata.ucar.edu/)
 If you've registered for this workshop, you can do all of this work on our very own _gateway_ to the NSF Jetstream Cloud!
-After registration closes, you will receive instructions to access Jupyter Lab on the cloud.
-After signing in with your GitHub account, this only requires a web browser and a stable internet connection.
-Get to coding!
+You should have received instructions from AMS on how to access Science Gateway, including a link to a form.
+Once you use this form to provide us with your GitHub username (create one [here](https://github.com/join) if needed), we will approve your access within 1-2 days or by the workshop.
+After you are given access, you can sign in to Science Gateway with your provided GitHub username at [pyaos-workshop.unidata.ucar.edu](https://pyaos-workshop.unidata.ucar.edu).
 
 When you first sign in, it may take a few seconds for your personal workspace to populate and your coding environment to be fully set up.
 From here you will discover a Jupyter Lab interface pre-populated with these materials and a few tools to enable you to update the materials if needed.
