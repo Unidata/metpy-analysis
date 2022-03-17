@@ -5,7 +5,7 @@ dependencies:
   - python
   - cartopy
   - jupyterlab
-  - matplotlib<3.5
-  - metpy==1.1.0
+  - matplotlib
+  - metpy==1.2.0
   - numpy
   - siphon==0.9.0
