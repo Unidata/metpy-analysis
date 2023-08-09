@@ -1,4 +1,4 @@
-name: pyaos-ams-2022
+name: metpy-analysis
 channels:
   - conda-forge
 dependencies:
@@ -6,6 +6,6 @@ dependencies:
   - cartopy
   - jupyterlab
   - matplotlib
-  - metpy==1.2.0
+  - metpy=1.5
   - numpy
-  - siphon==0.9.0
+  - siphon=0.9
