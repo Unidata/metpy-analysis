@@ -4,8 +4,10 @@ channels:
 dependencies:
   - python
   - cartopy
+  - ipywidgets
   - jupyterlab
   - matplotlib
   - metpy=1.5
   - numpy
+  - pandas<2
   - siphon=0.9
