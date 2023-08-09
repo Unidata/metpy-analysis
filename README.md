@@ -9,7 +9,7 @@
 # MetPy for Quantitative Analysis of Meteorological Data
 
 ### ![](logos/metpy-32x32.png "MetPy Logo") Let's talk MetPy!
-Here you will find a collection of notebooks we will be demonstrating and working through together for this Spring AMS Short Course on MetPy for Quantitative Analysis of Meteorological Data. The focus will be on some of [Unidata's Python tools](https://www.unidata.ucar.edu/projects/index.html#python), including [MetPy](https://unidata.github.io/MetPy/latest/) and [Siphon](https://unidata.github.io/siphon/latest/), and the workshop is primarily designed to show existing geoscientific Python users the capability and convenience MetPy can provide for working with data in meteorology.
+Here you will find a collection of notebooks we will be demonstrating and working through together for this workshop on MetPy for Quantitative Analysis of Meteorological Data. The focus will be on some of [Unidata's Python tools](https://www.unidata.ucar.edu/projects/index.html#python), including [MetPy](https://unidata.github.io/MetPy/latest/) and [Siphon](https://unidata.github.io/siphon/latest/), and the workshop is primarily designed to show existing geoscientific Python users the capability and convenience MetPy can provide for working with data in meteorology.
 
 ### :keyboard: Getting set up
 Start at the [Unidata eLearning hub site](https://elearning.unidata.ucar.edu/metpy/prep/#/) for preparing for this workshop.
