@@ -19,8 +19,7 @@ If you prefer or require doing the work on your own computer, you are welcome to
 
 #### :cloud: Using [Science Gateway](https://science-gateway.unidata.ucar.edu/)
 If you've registered for this workshop, you can do all of this work on our very own _gateway_ to the NSF Jetstream Cloud!
-You should have received instructions from AMS on how to access Science Gateway, including a link to a form.
-Once you use this form to provide us with your GitHub username (create one [here](https://github.com/join) if needed), we will approve your access within 1-2 days or by the workshop.
+You have received instructions from Unidata on how to access Science Gateway.
 After you are given access, you can sign in to Science Gateway with your provided GitHub username at [pyaos-workshop.unidata.ucar.edu](https://pyaos-workshop.unidata.ucar.edu).
 
 When you first sign in, it may take a few seconds for your personal workspace to populate and your coding environment to be fully set up.
