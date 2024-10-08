@@ -9,11 +9,12 @@
 # MetPy for Quantitative Analysis of Meteorological Data
 
 ### ![](logos/metpy-32x32.png "MetPy Logo") Let's talk MetPy!
-Here you will find a collection of notebooks we will be demonstrating and working through together for this workshop on MetPy for Quantitative Analysis of Meteorological Data. The focus will be on some of [Unidata's Python tools](https://www.unidata.ucar.edu/projects/index.html#python), including [MetPy](https://unidata.github.io/MetPy/latest/) and [Siphon](https://unidata.github.io/siphon/latest/), and the workshop is primarily designed to show existing geoscientific Python users the capability and convenience MetPy can provide for working with data in meteorology.
+Here is a collection of notebooks for the MetPy for Quantitative Analysis of Meteorological Data workshop. The focus is primarily designed to show existing geoscientific Python users the capability and convenience MetPy can provide for working with data in meteorology. Topics include working with MetPy constants and units, remote data access using Siphon and THREDDS, and exploring quasi-qeostrophic theory and isentropic analyses using MetPy.
+
+[Click this link to read our designed learning objectives for this material.](https://docs.google.com/document/d/e/2PACX-1vQ2_ekIS6wys69sPo87StV020seg9N2Mah6EKgRRRYotuV5oHzGvFmpWH28FYn8Egl-rLI-Rv1CZw8A/pub "Learning objectives for these course materials")
 
 ### :keyboard: Getting set up
-Start at the [Unidata eLearning hub site](https://elearning.unidata.ucar.edu/metpy/prep/#/) for preparing for this workshop.
-For this workshop, we have two separate ways you can participate, work ahead, and follow along.
+For synchronous workshop learners, we have two separate ways you can participate, work ahead, and follow along.
 If you've registered to attend, you will be given access to Unidata's Science Gateway to do your work on NSF's Jetstream Cloud.
 If you prefer or require doing the work on your own computer, you are welcome to do so as well!
 
