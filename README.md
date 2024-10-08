@@ -14,7 +14,12 @@
 ### ![](logos/metpy-32x32.png "MetPy Logo") Let's talk MetPy!
 Here is a collection of notebooks for the MetPy for Quantitative Analysis of Meteorological Data workshop. The focus is primarily designed to show existing geoscientific Python users the capability and convenience MetPy can provide for working with data in meteorology. Topics include working with MetPy constants and units, remote data access using Siphon and THREDDS, and exploring quasi-qeostrophic theory and isentropic analyses using MetPy.
 
-[Click this link to read our designed learning objectives for this material.](https://docs.google.com/document/d/e/2PACX-1vQ2_ekIS6wys69sPo87StV020seg9N2Mah6EKgRRRYotuV5oHzGvFmpWH28FYn8Egl-rLI-Rv1CZw8A/pub "Learning objectives for these course materials")
+<div align="center">
+
+[View learning objectives for this material](https://docs.google.com/document/d/e/2PACX-1vQ2_ekIS6wys69sPo87StV020seg9N2Mah6EKgRRRYotuV5oHzGvFmpWH28FYn8Egl-rLI-Rv1CZw8A/pub "Learning objectives for these course materials")
+
+[Request this training at your institution](https://docs.google.com/forms/d/e/1FAIpQLSfS2IV6CQvw3CQn2I6CnVKOMh5HOOsW0aK5qVATGXCvkMalVg/viewform "NSF Unidata training request form")
+</div>
 
 ### :keyboard: Getting set up
 For synchronous workshop learners, we have two separate ways you can participate, work ahead, and follow along.
